@@ -12,7 +12,7 @@ function sleep(ms) {
 
 (function() {
     'use strict';
-    var house_num = (400 + (Math.floor(Math.random() * 745)))
+    var house_num = ((Math.floor(Math.random() * 745))) 
     getHouse(house_num); // Get random house
     //console.log("Got House.");
     //console.log("Pausing...")
