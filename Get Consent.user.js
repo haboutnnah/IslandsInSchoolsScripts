@@ -7,10 +7,6 @@
 // @match        http://islands.smp.uq.edu.au/islande*
 // ==/UserScript==
 
-var min_age = console.log("Do the setup ._.") // 25
-var max_age = console.log("Do the setup ._.") // 35
-
-
 (function() {
     'use strict';
     var age = parseInt((document.getElementsByClassName("storyevent")[1]).innerText.replace(" years old","")); // Get the age
