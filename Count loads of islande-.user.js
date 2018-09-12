@@ -9,9 +9,9 @@
 // @grant       GM.getValue
 // ==/UserScript==
 
-(async () => {
-  let count_before = await GM.getValue('count', 0);
-  await GM.setValue('count', count_before + 1);
-  let count_after = await GM.getValue('count');
-  console.log("We've clicked on", count_after, "islanders.");
+(async () => { // Asynchrynous - Don't wait, and be low priority
+  let count_before = await GM.getValue('count', 0); // Get how many times we've c;icked a resident, if none, set to zero.
+  await GM.setValue('count', count_before + 1); // Add one
+  let count_after = await GM.getValue('count'); // Now do it to the local value
+  console.log("We've clicked on", count_after, "islanders."); // Print it to console
 })();
