@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name        Count loads of islande*
-// @description Stores and logs a counter of executions.
+// @name         Count loads of islande*
+// @description  Stores and logs a counter of executions.
 // @version      0.1
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/islande*
-// @grant       GM.setValue
-// @grant       GM.getValue
+// @downloadURL  https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Count%20loads%20of%20islande-.user.js
+// @grant        GM.setValue
+// @grant        GM.getValue
 // ==/UserScript==
 
 (async () => { // Asynchrynous - Don't wait, and be low priority

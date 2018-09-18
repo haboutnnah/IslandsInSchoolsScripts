@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Click Random Resident
+// @description  Find a random number, and click the house of that number
 // @version      0.1
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/village.php?Pauma
+// @downloadURL  https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Click%20Random%20Resident.user.js
 // ==/UserScript==
 
 function sleep(ms) {

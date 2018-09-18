@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Check Age and Get Consent
-// @version      0.1
 // @description  Checks age and then requests consent.
+// @version      0.1
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/islande*
+// @downloadURL  https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Get%20Consent.user.js
 // ==/UserScript==
 
 (function() {

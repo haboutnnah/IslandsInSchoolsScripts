@@ -5,6 +5,7 @@
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/project.php
+// @downloadURL  https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Get%20Consent.user.js
 // ==/UserScript==
 
 (function() {
