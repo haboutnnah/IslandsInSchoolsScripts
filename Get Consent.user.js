@@ -19,6 +19,10 @@
     let count_after = await GM.getValue('count'); // Now do it to the local value
     console.log("We've clicked on", count_after, "islanders."); // Print it to console
     console.log("Age found: ", age) // Dump it to console
+
+    let min_age = await GM.getValue('min_age', parseInt(prompt("What is the minimum age in your age group?")));
+    let max_age = await GM.getValue('min_age', parseInt(prompt("What is the maximum age in your age group?")));
+
     if ((age >= min_age) && (age <= max_age)){ // If in age range
         change_tab('t3') // Change to consent tab
         getConsent(window.location.href.replace(/.*?=/,"")) // Get the islander ID
