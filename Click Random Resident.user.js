@@ -12,7 +12,7 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms)); // Promise that acts to sleep. TODO: Get a better way of doing this.
 }
 
-(function() {
+(async () => {
     'use strict'; // Forces code to be neat
     var house_num = ((Math.floor(Math.random() * 745))) // Get a random number that we use to...
     getHouse(house_num); // Get random house!
