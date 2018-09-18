@@ -20,4 +20,4 @@ https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Check%20Number%
 # Legal: 
 
 
-Copyright [Hannah Ivy](https://hannahi.com) <contact@hannahi.com>
+Copyright [Hannah Ivy](https://hannahi.com), <contact@hannahi.com>
