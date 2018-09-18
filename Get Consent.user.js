@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Check Age and Get Consent
 // @description  Checks age and then requests consent.
-// @version      1.0.0
+// @version      1.0.1
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/islande*
@@ -16,7 +16,7 @@
     'use strict';
     var age = parseInt((document.getElementsByClassName("storyevent")[1]).innerText.replace(" years old","")); // Get the age
 
-    var set_age = async(variable_name, description) => {
+    var set_age = async(variable_name, description) => {5
         let before = await GM.getValue(variable_name, "nil"); // Get how many times we've clicked a resident, if none, set to zero.
         if (before == "nil"){ before = parseInt(prompt("What is the " + description + " age in your age group?"))}
         await GM.setValue(variable_name, before); // Add one

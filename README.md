@@ -5,8 +5,8 @@
 1. Install [Tampermonkey](https://tampermonkey.net).  
 2. Click each of the scripts below, and install it:  
 ![Pressing Install](https://i.imgur.com/Y8gHqU9.png)  
-3. [Go to the site](http://islands.smp.uq.edu.au/village.php?Pauma).
-4. It is recommended that you have multiple tabls of the above site, but you might get too many people.
+3. [Go to the site](http://islands.smp.uq.edu.au/project.php).
+4. It is recommended that you have multiple tabls of the above site, but you might get too many people. If you want to pause, click tampermonkey's logo in your taskbar and press *Enabled*, and it will switch to *Disabled*.
 
 ## URLS:
 

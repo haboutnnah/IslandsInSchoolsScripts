@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Check Number of Participants
 // @description  Checks number of participants, if less than 80, continue.
-// @version      1.0.0
+// @version      1.0.1
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/project.php
@@ -14,6 +14,6 @@
     if (document.getElementById("t1").children[0].innerHTML == "Your contacts list is empty. Visit an Islander to add them."){num_residents = 0} // Handle 0 residents
     console.log("We have " + num_residents + " residents so far") // Chucks it in to the log for debugging
     if (num_residents < 80){ // If it's less than eighty
-        window.location.href = "http://islands.smp.uq.edu.au/village.php?Pauma" // Go get another!
+        window.location.href = ("http://islands.smp.uq.edu.au/house.php?v=15&h=" + ((Math.floor(Math.random() * 745)))) // Go get another!
     }
 })();
