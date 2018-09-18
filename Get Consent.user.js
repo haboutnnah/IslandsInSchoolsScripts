@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Check Age and Get Consent
 // @description  Checks age and then requests consent.
-// @version      0.1
+// @version      1.0.0
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/islande*

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Click Random Resident
 // @description  Find a random number, and click the house of that number
-// @version      0.1
+// @version      1.0.0
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/village.php?Pauma

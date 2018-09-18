@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Check Number of Participants
 // @description  Checks number of participants, if less than 80, continue.
-// @version      0.1
+// @version      1.0.0
 // @namespace    https://hannahi.com/
 // @author       Hannah Ivy <contact@hannahi.com>
 // @match        http://islands.smp.uq.edu.au/project.php
