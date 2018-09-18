@@ -6,6 +6,7 @@
 2. Click each of the scripts below, and install it:  
 ![Pressing Install](https://i.imgur.com/Y8gHqU9.png)  
 3. [Go to the site](http://islands.smp.uq.edu.au/village.php?Pauma).
+4. It is recommended that you have multiple tabls of the above site, but you might get too many people.
 
 ## URLS:
 
