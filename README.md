@@ -11,11 +11,11 @@
 
 ## URLS:
 
-https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Click%20Random%20Resident.user.js
+https://github.com/haboutnnah/IslandsInSchoolsScripts/raw/master/Click%20Random%20Resident.user.js
 
-https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Get%20Consent.user.js
+https://github.com/haboutnnah/IslandsInSchoolsScripts/raw/master/Get%20Consent.user.js
 
-https://github.com/tf2manu994/IslandsInSchoolsScripts/raw/master/Check%20Number%20of%20Participants.user.js
+https://github.com/haboutnnah/IslandsInSchoolsScripts/raw/master/Check%20Number%20of%20Participants.user.js
 
 --- 
 
